@@ -1,8 +1,0 @@
-TELEGRAM_BOT_TOKEN=8540241765:AAFf8xxLFdA-lWFa6yNLpjzxfs1viHsSkys
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_EMAIL=rishivikramreddy98@gmail.com
-SMTP_PASSWORD=Rishi@2008
-# Add other fields with sensible defaults if necessary, based on common bot configurations.
-# For example, if there's a database, add DB_HOST, DB_USER, DB_PASSWORD, DB_NAME
-# For now, assuming these are the primary ones.
