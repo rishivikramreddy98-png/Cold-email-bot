@@ -15,7 +15,7 @@ from email_service import run_campaign, check_subscription_limits, validate_emai
 from reply_checker import ReplyChecker
 
 # Load environment variables
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8540241765:AAFCzDUZB8OOLjzUFz0MT7qxzydh17LxkzY")
+TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "8540241765:AAHUCxuHWQmpcs9DrDAWNCN1firoi1-tcK8")
 DB_URL = os.getenv("DATABASE_URL", "sqlite:///bot_database.db")
 ADMIN_TELEGRAM_ID = os.getenv("ADMIN_TELEGRAM_ID", "6652998660")
 
